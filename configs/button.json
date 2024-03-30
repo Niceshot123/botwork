@@ -1,0 +1,28 @@
+{
+  "ticketSetup": {
+    "description": "꒦꒷‧₊˚⊹･ ｡ﾟ☆: .☽ . :☆ﾟ. ‧˚₊꒷꒦\n•‧₊˚⊹  ꒰ยินดีต้อนรับสู่หน้าต่างการเลือกบ้านโปรดเลือกบ้านของคุณเพื่อไปต่อ꒱ɞ   ⨯ . ⁺ ✦ ⊹",
+    "footer": "Copyright © 2023 diffgord . All rights reserved"
+  },
+  "buttonOne": {
+    "emoji": "1️⃣",
+    "description": "Faither"
+  },
+  "buttonTwo": {
+    "emoji": "2️⃣",
+    "description": "Serpent"
+  },
+  "buttonThree": {
+    "emoji": "3️⃣",
+    "description": "Wild"
+  },
+  "buttonFour": {
+    "emoji": "4️⃣",
+    "description": "Insects"
+  },
+  "role": {
+    "RoleId1": "1118141236310704209",
+    "RoleId2": "1118141250529398795",
+    "RoleId3": "1118141252316172309",
+    "RoleId4": "1118141254576914453"
+  }
+}
